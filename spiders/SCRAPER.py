@@ -100,7 +100,8 @@ class Spider_system(scrapy.Spider):
             Mercado_Average, Mercado_Minimun, Mercado_Producs = self.Calculator(Mercado_Livre)
                 
             plt.figure().set_figwidth(10) # < Will configure the grafic's width
-
+            plt.title("[Data Grafic]") # < Will set a title for the grafic
+            
             plt.bar(["A_Average", "A_Minimun", "A_Products"], # < Will configure the grafic's columns
                 [Amazon_Average, Amazon_Minimun, Amazon_Producs], # < Will configure the value of the columns
                 color=["c", "c", "c"], label="Amazon") # < Will add the legend value
