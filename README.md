@@ -1,6 +1,6 @@
 # [DATA-SCRAPER]
-### -[The system will](https://github.com/Mrleonard333/DATA-SCRAPER/new/main?readme=1#the-system-will)
-### -[Libraries used](https://github.com/Mrleonard333/DATA-SCRAPER/new/main?readme=1#libraries-used)
+### -[The system will](https://github.com/Mrleonard333/DATA-SCRAPER#the-system-will)
+### -[Libraries used](https://github.com/Mrleonard333/DATA-SCRAPER#libraries-used)
 ## A Web scraping sistem created with Scrapy framework.
 #### The system send a request and scrap the Amazon and Mercado Livre sites.
 # The system will...
